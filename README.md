@@ -40,9 +40,9 @@ etc...
 https://github.com/chris1111/Fix-Graphics-HD-3000-Mojave-10.14
 
 # Screenshots:
-![1](https://github.com/baooshacker/HP450-Notebook-PC/blob/master/Screenshot/1.png)
-![2](https://github.com/baooshacker/HP450-Notebook-PC/blob/master/Screenshot/2.png)
-![3](https://github.com/baooshacker/HP450-Notebook-PC/blob/master/Screenshot/3.png)
+![1](https://github.com/baooshacker/HP450-Notebook-Hackintosh/blob/master/Screenshots/1.png)
+![2](https://github.com/baooshacker/HP450-Notebook-Hackintosh/blob/master/Screenshots/2.png)
+![3](https://github.com/baooshacker/HP450-Notebook-Hackintosh/blob/master/Screenshots/3.png)
 
 [You Can Go To This Group](https://www.facebook.com/groups/hackintosh.vietnam)
 
