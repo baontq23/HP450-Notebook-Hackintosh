@@ -19,7 +19,7 @@
 * Sleep + Wake + Shutdown + Restart
 
 etc...
-# [Download](https://github.com/baooshacker/HP450-Notebook-PC/releases)
+# [Download](https://github.com/baooshacker/HP450-Notebook-Hackintosh/releases)
 
 # How to use (10.13.6)
 * Step 1: Mount EFI partition
