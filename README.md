@@ -12,7 +12,7 @@
 * Speaker + Internal Mic + Headphone
 * Ethernet
 * WIFI + Bluetooth + Airdrop + Handoff(replace DW1550)
-* Trackpad (PS2 Touch Pad)
+* Trackpad (PS2 Track Pad)
 * HDMI + HDMI Sound
 * Brightness
 * iMessage + FaceTime + iCloud + App Store
