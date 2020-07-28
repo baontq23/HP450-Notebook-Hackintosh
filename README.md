@@ -1,6 +1,6 @@
 # HP450-Notebook Specs:
 * CPU: Intel Core i5-2450M (Sandy Bridge)
-* iGPU: Intel HD 3000
+* iGPU: Intel HD Graphics 3000
 * Ram: 8GB
 * WiFi: BCM94352HMB
 * Sound: ALC269
